@@ -1,0 +1,35 @@
+# RTFI Devlog 6 - Client Projesine Giriş
+https://youtu.be/
+- [RTFI Devlog 6 - Client Projesine Giriş](#rtfi-devlog-6---client-projesine-giriş)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+  - [Videoda Kullanılan veya Oluşturulan İçerikler](#videoda-kullanılan-veya-oluşturulan-i̇çerikler)
+
+## Video
+
+[![RTFIDEVLOG 6](https://img.youtube.com/vi/IWbBo-OC-G0/0.jpg)](https://youtu.be/IWbBo-OC-G0)
+
+[![Youtube](https://img.shields.io/youtube/views/IWbBo-OC-G0?style=social&label=Görüntüleme)](https://youtu.be/IWbBo-OC-G0)
+
+### Video Detayları
+
+> 💬 Sistemde ufak değişiklikler yaptım, bunun için kısaca açıklamalar yapıp, client sistemine geçiş yapıyoruz.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣[00:33](https://youtu.be/IWbBo-OC-G0?t=33) | Yaptığım değişikliklerle ilgili notlar. |
+| 2️⃣[14:06](https://youtu.be/IWbBo-OC-G0?t=846) | Client kaynak kodlarının kopyalanması. |
+| 3️⃣[28:34](https://youtu.be/IWbBo-OC-G0?t=1714) | Yapıyı değiştirmek için vs içinde düzenlemeler. |
+| 4️⃣[38:30](https://youtu.be/IWbBo-OC-G0?t=2310) | Resource dosyalarının ayarlamaları. |
+| 5️⃣[48:40](https://youtu.be/IWbBo-OC-G0?t=2920) | Python Scriptlerinin kopyalanması. |
+| 6️⃣[52:40](https://youtu.be/IWbBo-OC-G0?t=3160) | Client projesi için .gitignore ayarlaması. |
+| 7️⃣[55:30](https://youtu.be/IWbBo-OC-G0?t=3330) | Commit |
+
+## Videoda Kullanılan veya Oluşturulan İçerikler
+
+[![Virustotal](https://img.shields.io/static/v1?label=Virustotal&logo=virustotal&logoColor=black&labelColor=blue&message=0&color=9cf)](https://discord.gg/JbFdHMK) 
+
+

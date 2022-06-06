@@ -32,7 +32,7 @@
 | [**5.** Server Yapısı Oluşturma](/TR/RTFIDevLog/005RTFIDevLog.md) | 5 Creating Server Structure |
 | [**6.** Client Projesine Giriş](/TR/RTFIDevLog/006RTFIDevLog.md) | 6 Client Project First Touch |
 | [**7.** Visual Studio Ayarlamaları](/TR/RTFIDevLog/007RTFIDevLog.md) | 7 Visual Studio Adjustments |
-| [**8.** Visual Studio Ayarlamaları](/TR/RTFIDevLog/007RTFIDevLog.md) | 7 Visual Studio Adjustments |
+| [**8.** Client Derlemesi ve Extern Ayarlamaları](/TR/RTFIDevLog/008RTFIDevLog.md) | 8 Client Compiling & Extern |
 
 ## Forum İçerikleri __/ Forum Contents
 

@@ -33,7 +33,8 @@
 | [**6.** Client Projesine Giriş](/TR/RTFIDevLog/006RTFIDevLog.md) | 6 Client Project First Touch |
 | [**7.** Visual Studio Ayarlamaları](/TR/RTFIDevLog/007RTFIDevLog.md) | 7 Visual Studio Adjustments |
 | [**8.** Client Derlemesi ve Extern Ayarlamaları](/TR/RTFIDevLog/008RTFIDevLog.md) | 8 Client Compiling & Extern |
-| [**9.** Client Derlemesi ve Extern Ayarlamaları Python 2.7.18](/TR/RTFIDevLog/009RTFIDevLog.md) | 8 Client Compiling & Extern Python 2.7.18 |
+| [**9.** Client Derlemesi ve Extern Ayarlamaları Python 2.7.18](/TR/RTFIDevLog/009RTFIDevLog.md) | 9 Client Compiling & Extern Python 2.7.18 |
+| [**10.** Client Derlemeye Devam Ediyoruz](/TR/RTFIDevLog/010RTFIDevLog.md) | 10 Client Compiling |
 
 ## Forum İçerikleri __/ Forum Contents
 

@@ -35,6 +35,8 @@
 | [**8.** Client Derlemesi ve Extern Ayarlamaları](/TR/RTFIDevLog/008RTFIDevLog.md) | 8 Client Compiling & Extern |
 | [**9.** Client Derlemesi ve Extern Ayarlamaları Python 2.7.18](/TR/RTFIDevLog/009RTFIDevLog.md) | 9 Client Compiling & Extern Python 2.7.18 |
 | [**10.** Client Derlemeye Devam Ediyoruz](/TR/RTFIDevLog/010RTFIDevLog.md) | 10 Client Compiling |
+| [**11.** Client için Lib Derlemeleri ve Hata Çözümleri](/TR/RTFIDevLog/011RTFIDevLog.md) | 11 Client Compiling Libs and Errors |
+| [**12.** Başarılı Giriş ve Debug Modda Başlatma](/TR/RTFIDevLog/012RTFIDevLog.md) | 12 Login Success |
 
 ## Forum İçerikleri __/ Forum Contents
 

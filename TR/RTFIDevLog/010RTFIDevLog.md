@@ -19,15 +19,15 @@
 
 | Bölüm | Açıklama |
 | --- | --- |
-| 1️⃣[01:09](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | winnt.h static_assert failed hatası. |
-| 2️⃣[13:38](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | GrpDetector.h string is not a member of std hatası. |
-| 3️⃣[15:25](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | Referans hataları. |
-| 4️⃣[26:20](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | AffectFlagContainer.cpp cannot convert from hatası. |
-| 5️⃣[29:17](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | ILvoid hatası. |
-| 6️⃣[26:25](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | Python 2.7 için Clong düzeltmesi. |
-| 7️⃣[38:00](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | Libleri atmaya geçiyoruz. |
-| 8️⃣[40:04](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | SAFESEH hatası. |
-| 9️⃣[48:29](https://youtu.be/ZhKqykHbvk4?t=__SANIYE__) | CryptoPP derlemesi ve header dosyasında düzenleme. |
+| 1️⃣[01:09](https://youtu.be/ZhKqykHbvk4?t=69) | winnt.h static_assert failed hatası. |
+| 2️⃣[13:38](https://youtu.be/ZhKqykHbvk4?t=818) | GrpDetector.h string is not a member of std hatası. |
+| 3️⃣[15:25](https://youtu.be/ZhKqykHbvk4?t=925) | Referans hataları. |
+| 4️⃣[26:20](https://youtu.be/ZhKqykHbvk4?t=1580) | AffectFlagContainer.cpp cannot convert from hatası. |
+| 5️⃣[29:17](https://youtu.be/ZhKqykHbvk4?t=1757) | ILvoid hatası. |
+| 6️⃣[36:25](https://youtu.be/ZhKqykHbvk4?t=2185) | Python 2.7 için Clong düzeltmesi. |
+| 7️⃣[38:00](https://youtu.be/ZhKqykHbvk4?t=2280) | Libleri atmaya geçiyoruz. |
+| 8️⃣[40:04](https://youtu.be/ZhKqykHbvk4?t=2404) | SAFESEH hatası. |
+| 9️⃣[48:29](https://youtu.be/ZhKqykHbvk4?t=2909) | CryptoPP derlemesi ve header dosyasında düzenleme. |
 
 
 
